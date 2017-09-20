@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:keyboard-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -33,12 +34,13 @@ LIBS:WS2812B
 LIBS:MX1A
 LIBS:ATMEGA32U4
 LIBS:WE05-4RVLCH
+LIBS:mdbt40
 LIBS:keyboard-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 3
+Sheet 2 4
 Title "Daisy"
 Date "2017-08-17"
 Rev "v1.0"

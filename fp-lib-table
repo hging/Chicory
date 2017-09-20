@@ -10,5 +10,6 @@
   (lib (name resistors)(type KiCad)(uri "$(KIPRJMOD)/Libraries/Packages/Resistors.pretty")(options "")(descr ""))
   (lib (name switches)(type KiCad)(uri "$(KIPRJMOD)/Libraries/Packages/Switches.pretty")(options "")(descr ""))
   (lib (name transistors)(type KiCad)(uri "$(KIPRJMOD)/Libraries/Packages/Transistors.pretty")(options "")(descr ""))
-  (lib (name usb)(type Eagle)(uri C:\Users\beil\eagle\lbr\KTEC\usb-micro-b.lbr)(options "")(descr ""))
+  (lib (name usb)(type Eagle)(uri C:/Users/beil/eagle/lbr/KTEC/usb-micro-b.lbr)(options "")(descr ""))
+  (lib (name mdbt40_carrier)(type KiCad)(uri "$(KIPRJMOD)/Libraries/Packages/mdbt40_carrier.pretty")(options "")(descr ""))
 )
