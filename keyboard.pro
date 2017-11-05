@@ -1,4 +1,4 @@
-update=2017/9/20 22:16:23
+update=2017/11/4 13:37:17
 version=1
 last_client=kicad
 [pcbnew]
@@ -76,3 +76,4 @@ LibName34=Libraries/Symbols/ATMEGA32U4
 LibName35=Libraries/Symbols/WE05-4RVLCH
 LibName36=Libraries/Symbols/mdbt40
 LibName37=keyboard-cache
+LibName38=Libraries/Symbols/OPL-Switch
